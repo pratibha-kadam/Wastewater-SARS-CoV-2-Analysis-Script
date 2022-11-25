@@ -20,4 +20,6 @@ User provided:
 
 
 ## Usage
+- Please provide the path of the reference.fasta(provided) and primer set in the script.
+
 Install all the required tool for the pipeline and run "bash Wastewater_SARS-CoV-2_Script.sh"
